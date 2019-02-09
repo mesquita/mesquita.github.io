@@ -13,8 +13,8 @@ sass:
 nav:
 
  - name: "CV"
-   link: "resume.pdf"
+   link: "/cv"
  - name: "Blog"
    link: "/blog"
  - name: "Contact"
-   link: "/contact"
+   link: "contact"
