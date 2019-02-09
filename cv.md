@@ -44,7 +44,7 @@ Vinicius Mesquita de Pinho is almost finishing the undergratude course in Electr
 
 Undergraduate Thesis: Equalizers Performances in Underwater Acoustic Systems (in progress).
 
-Advisor: [Marcello L. R. de Campos]((http://www.smt.ufrj.br/~campos/) and Rafael da S. Chaves
+Advisor: [Marcello L. R. de Campos](http://www.smt.ufrj.br/~campos/) and Rafael da S. Chaves
 
 Keywords: equalization; underwater acoustic; turbo equalizer
 
