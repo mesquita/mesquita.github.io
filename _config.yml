@@ -3,5 +3,6 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
 
+mathjax: true
 
 google_analytics: UA-134202696-1
