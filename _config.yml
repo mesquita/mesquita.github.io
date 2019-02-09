@@ -1,25 +1,5 @@
----
-title: Mesquita.Github.Io
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 name: Vinicius Mesquita
 markdown: kramdown
 theme: jekyll-theme-minimal
-permalink: "/blog/:year/:month/:day/:title"
-tracking_id: 
-sass:
-  style: compressed
-  sass_dir: _sass
-nav:
-- name: CV
-  link: "/cv"
-- name: Blog
-  link: "/blog"
-- name: Contact
-  link: contact
+permalink: /blog/:year/:month/:day/:title
+
