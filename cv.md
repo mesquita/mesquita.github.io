@@ -7,17 +7,17 @@ id: cv
 
 # Vinicius Mesquita's CV
 
-[Complete](http://lattes.cnpq.br/2628435149154613) CV at Lattes platform (only in Portuguese)
+[Complete](http://lattes.cnpq.br/2628435149154613) CV at Lattes platform (only in Portuguese).
 
 ## Work Contact
 ---
 Signals, Multimedia, and Telecommunications Lab.
 
-Av. Horácio Macedo, 2030, room H-221 – Cidade Universitária
+Av. Horácio Macedo, 2030, room H-221 – Cidade Universitária.
 
-21941-598 Rio de Janeiro, RJ - Brazil
+21941-598 Rio de Janeiro, RJ - Brazil.
 
-Tel/FAX.: +55 (21) 3938-8207
+Tel/FAX.: +55 (21) 3938-8207.
 
 E-mail: viniciusmesquita [at] poli [dot] ufrj [dot] br
 
@@ -44,9 +44,9 @@ Vinicius Mesquita de Pinho is almost finishing the undergratude course in Electr
 
 Undergraduate Thesis: Equalizers Performances in Underwater Acoustic Systems (in progress).
 
-Advisor: [Marcello L. R. de Campos](http://www.smt.ufrj.br/~campos/) and Rafael da S. Chaves
+Advisor: [Marcello L. R. de Campos](http://www.smt.ufrj.br/~campos/) and Rafael da S. Chaves.
 
-Keywords: equalization; underwater acoustic; turbo equalizer
+Keywords: equalization; underwater acoustic; turbo equalizer.
 
 
 ## Professional/Research Background
@@ -65,18 +65,18 @@ Research Area: Signal processing applied to underwater acoustic transmissions.
 
 ### 2018 - 
 
-Researcher in collaboration project
+Researcher in collaboration project:
 
 *Federal University of Rio de Janeiro (SMT) / CENPES (Petrobras)*
 
-Title:  Processamento de Sinais Aplicado em Predição, Detecção e Diagnóstico de Falhas Durante a Perfuração de Poços
+Title:  Processamento de Sinais Aplicado em Predição, Detecção e Diagnóstico de Falhas Durante a Perfuração de Poços.
 
 
 
 ## Language
 ---
-* Portuguese: native
-* English: advanced
+* Portuguese: native;
+* English: advanced.
 
 
 ## Publications
