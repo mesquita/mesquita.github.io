@@ -5,8 +5,6 @@ permalink: /about/
 id: about
 ---
 
-# About Vinicius Mesquita
-
 Hi, my name is **Vinicius Mesquita** and I'm currently an M.Sc. student at the Federal University of Rio de Janeiro (UFRJ) in the [Electric Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE) - Brazil.
 
 I made this blog to share my knowledge that I've been acquiring through my masters.
@@ -18,7 +16,9 @@ For more academic/professional information, please access [my curriculum](/cv).
 ### Contact
 #### E-mails
 viniciusmesquita [at] ufrj [dot] com [dot] br
+
 vinicius [at] outlook [dot] com
+
 mesquita [at] outlook [dot] com
 
 #### Location
@@ -42,5 +42,3 @@ Rio de Janeiro, RJ – Brasil
 Room H-221: +55 (21) 3938-8207
 
 Room I-146: +55 (21) 3938-8118
-
-</div>
