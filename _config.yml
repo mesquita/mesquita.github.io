@@ -1,6 +1,6 @@
 name: Vinicius Mesquita
 markdown: kramdown
-theme: jekyll-theme-minimal
+remote_theme: ankitsultana/researcher@gem
 permalink: /blog/:year/:month/:day/:title
 
 
