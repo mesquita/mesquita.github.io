@@ -6,3 +6,8 @@ title: Vinicius Mesquita
 	<h1>Hi there, I'm Vinicius Mesquita.</h1>
 	<p>That's all, folks.</p>
 </div><!-- /.blurb -->
+
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
