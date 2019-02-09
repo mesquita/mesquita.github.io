@@ -3,3 +3,18 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
 
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+
+nav:
+
+ - name: "CV"
+   link: "resume.pdf"
+ - name: "Blog"
+   link: "/blog"
+ - name: "Contact"
+   link: "/contact"
