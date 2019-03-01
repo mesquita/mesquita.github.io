@@ -23,9 +23,9 @@ E-mail: viniciusmesquita [at] poli [dot] ufrj [dot] br
 
 ## Personal data
 ---
-Brazilian, male, single, 23 years old.
+Brazilian, 23 years old.
 
-Born in April 05, 1991. ES - Brazil.
+Born in April 05, 1995. ES - Brazil.
 
 **Name in bibliographic citations**: PINHO, V. M.
 
