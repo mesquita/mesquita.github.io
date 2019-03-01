@@ -31,7 +31,7 @@ Born in April 05, 1995. ES - Brazil.
 
 ## Short biography
 ---
-Vinicius Mesquita de Pinho received the B.Sc. degree in Electronics and Computing Engineering from Federal University of Rio de Janeiro (UFRJ), Brazil, in 2019.Since 2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT). He has interest in signal processing applied telecommunications.
+Vinicius Mesquita de Pinho received the B.Sc. degree in Electronics and Computing Engineering from Federal University of Rio de Janeiro (UFRJ), Brazil, in 2019. Since 2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT). He has interest in signal processing applied telecommunications.
 
 ## Education
 ---
