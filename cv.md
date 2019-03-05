@@ -51,9 +51,9 @@ In progress...
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil*
 
-Undergraduate Thesis: Equalizers Performances in Underwater Acoustic System.
+Undergraduate Thesis: [Equalizers Performances in Underwater Acoustic System](https://www.researchgate.net/publication/331529947_On_Equalization_Performance_in_Underwater_Acoustic_Communication_System).
 
-Advisor: [Marcello L. R. de Campos](http://www.smt.ufrj.br/~campos/) and Rafael da S. Chaves.
+Advisor: [Marcello L. R. de Campos](http://www.smt.ufrj.br/~campos/) and [Rafael da S. Chaves](https://www.researchgate.net/profile/Rafael_Chaves7).
 
 Keywords: equalization; underwater acoustic; turbo equalizer.
 
