@@ -31,9 +31,18 @@ Born in April 05, 1995. ES - Brazil.
 
 ## Short biography
 ---
-Vinicius Mesquita de Pinho received the B.Sc. degree in Electronics and Computing Engineering from Federal University of Rio de Janeiro (UFRJ), Brazil, in 2019. Since 2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT). He has interest in signal processing applied telecommunications.
+Vinicius Mesquita de Pinho received the B.Sc. degree in Electronics and Computing Engineering from Federal University of Rio de Janeiro (UFRJ), Brazil, in 2019.Currently a M.Sc. student in the Electrical Engineering Program - COPPE/UFRJ. Since 2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT). He has interest in signal processing applied telecommunications.
 
 ## Education
+
+### 2019 - 2021
+
+**M.Sc. in Electrical Engineering**
+
+*Electrical Engineering Program - COPPE/UFRJ*
+
+In progress...
+
 ---
 
 ### 2014 - 2019
@@ -54,11 +63,19 @@ Keywords: equalization; underwater acoustic; turbo equalizer.
 
 ### 2015 - 2019
 
-Scientific Initiation project at Signals, Multimedia, and Telecommunications Lab (SMT)
+Junior researcher at Signals, Multimedia, and Telecommunications Lab (SMT)
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil.*
 
 Research Area: Signal processing applied to underwater acoustic transmissions.
+
+### 2016 - 2018
+
+Teacher Assistant 
+
+*Eletrocnics and Computing Engineering Departament (DEL)*
+
+Linear Algebra II
 
 ## Research Projects
 ---
@@ -69,7 +86,8 @@ Researcher in collaboration project:
 
 *Federal University of Rio de Janeiro (SMT) / CENPES (Petrobras)*
 
-Title:  Processamento de Sinais Aplicado em Predição, Detecção e Diagnóstico de Falhas Durante a Perfuração de Poços.
+Title: Signal processing applied to prediction, detection a diagnostic of oil drilling processes. 
+
 
 
 
@@ -87,6 +105,7 @@ Title:  Processamento de Sinais Aplicado em Predição, Detecção e Diagnóstic
 * [MARINS, M. A.](http://lattes.cnpq.br/4476862527285936) ; CHAVES, R. S. ; **[PINHO, V. M.](http://lattes.cnpq.br/2628435149154613 )** ; [CUNHA, R. A. F.](http://lattes.cnpq.br/2402401592333107) ; [CAMPOS, M. L. R.](http://lattes.cnpq.br/2402401592333107) . [Tackling Fingerprinting Indoor Localization Using the LASSO and the Conjugate Gradient Algorithms](https://www.researchgate.net/publication/312936131_Tackling_Fingerprinting_Indoor_Localization_Using_the_LASSO_and_the_Conjugate_Gradient_Algorithms?_sg=54PA0udLekDiwv-VEnKBS3aCdjgjCkkhKXoEUotKK3GF-gwQksExU_i8FunUzEFTeqPfl4ehEyeqrw.DvOO58Cklc1ucky2V1sXcMAR3walp8-WoV_dpbF0RGBhBGaX_TeYVX3_gY7K8JtbigjEcyBg3xLHvFMiX2D4qg&_sgd%5Bnc%5D=1&_sgd%5Bncwor%5D=0). In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém - PA. -, 2016.
 * [PINHO, V. M.](http://lattes.cnpq.br/2628435149154613); [CAMPOS, M. L. R.](http://lattes.cnpq.br/2402401592333107) ; [CUNHA, R. A. F.](http://lattes.cnpq.br/2402401592333107) . [O Método do Gradiente Conjugado Aplicado à Localização em Ambientes Fechados](https://www.researchgate.net/publication/325766189_O_Metodo_do_Gradiente_Conjugado_Aplicado_a_Localizacao_em_Ambientes_Fechados). In: XXXIII Simpósio Brasileiro de Telecomunicações, 2015, Juiz de Fora - MG. XXXIII Simpósio Brasileiro de Telecomunicações, 2015. v. 1. p. 597-598.
 
-
-
+2. Thesis
+Undergraduate Thesis:
+* [PINHO, V. M.](http://lattes.cnpq.br/2628435149154613); CHAVES, R. S.; [CAMPOS, M. L. R.](http://lattes.cnpq.br/2402401592333107). [ On Equalization Performance in Underwater Acoustic Communication System](https://www.researchgate.net/publication/331529947_On_Equalization_Performance_in_Underwater_Acoustic_Communication_System). Undergraduate Thesis, Federal University of Rio de Janeiro (UFRJ), Electronics and Computing Engineering Departament (DEL). February, 2019.
 
