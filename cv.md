@@ -73,7 +73,7 @@ Research Area: Signal processing applied to underwater acoustic transmissions.
 
 Teacher Assistant 
 
-*Eletrocnics and Computing Engineering Departament (DEL)*
+*Electronics and Computing Engineering Departament (DEL)*
 
 Linear Algebra II
 
