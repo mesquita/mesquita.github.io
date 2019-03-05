@@ -5,7 +5,7 @@ permalink: /about/
 id: about
 ---
 
-Hi, my name is **Vinicius Mesquita** and I'm currently an M.Sc. student at the Federal University of Rio de Janeiro (UFRJ) in the [Electric Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE) - Brazil.
+Hi, my name is **Vinicius Mesquita** and I'm currently an M.Sc. student at the Federal University of Rio de Janeiro (UFRJ) in the [Electrical Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE) - Brazil.
 
 
 ### More information
