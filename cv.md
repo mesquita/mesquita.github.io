@@ -86,7 +86,7 @@ Researcher in collaboration project:
 
 *Federal University of Rio de Janeiro (SMT) / CENPES (Petrobras)*
 
-Title: Signal processing applied to prediction, detection a diagnostic of oil drilling processes. 
+Title:  Multiple Analysis and Diagnoses for Maximum Perforation Performance of Oil Wells. 
 
 
 
