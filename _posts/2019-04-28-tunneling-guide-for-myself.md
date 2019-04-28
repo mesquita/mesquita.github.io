@@ -1,6 +1,4 @@
-﻿# Tunneling guide for myself
-
-I'm gonna update this as I learn more about tunneling.
+﻿I'm gonna update this as I learn more about tunneling.
 
 ## Jupyter Notebook
 
