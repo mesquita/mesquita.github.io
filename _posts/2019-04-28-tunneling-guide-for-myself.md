@@ -34,4 +34,5 @@
 
 That's it for now.
 
+P.S.: I'd like to thank Wesley for helping me out with the basic stuff. 
 
