@@ -12,7 +12,7 @@
 
 3. open jupter notebook
 
-    jupyter notebook --no-browser --port=8989 &
+    jupyter notebook -\-no-browser -\-port=8989 &
 
 4. copy the link and have fun
 
