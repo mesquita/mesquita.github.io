@@ -1,5 +1,3 @@
-# Wireless Systems
-
 ## Syllabus
 
 ### Book: 
