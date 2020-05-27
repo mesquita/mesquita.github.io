@@ -23,7 +23,7 @@ E-mail: viniciusmesquita [at] poli [dot] ufrj [dot] br
 
 ## Personal data
 ---
-Brazilian, 23 years old.
+Brazilian, 25 years old.
 
 Born in April 05, 1995. ES - Brazil.
 
@@ -31,7 +31,10 @@ Born in April 05, 1995. ES - Brazil.
 
 ## Short biography
 ---
-Vinicius Mesquita de Pinho received the B.Sc. degree in Electronics and Computing Engineering from Federal University of Rio de Janeiro (UFRJ), Brazil, in 2019.Currently a M.Sc. student in the Electrical Engineering Program - COPPE/UFRJ. Since 2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT). He has interest in signal processing applied telecommunications.
+Vinicius Mesquita de Pinho received his B.Sc. degree in Electronics and Computing Engineering from the Federal University
+of Rio de Janeiro (UFRJ), Brazil, in 2019. He is an M.Sc. student in the Electrical Engineering Program - COPPE/UFRJ. Since
+2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT). Currently, Vinicius is
+working as an intern at Nokia Bell Labs France, in a project integrating radio systems and computer vision.
 
 ## Education
 
@@ -41,7 +44,8 @@ Vinicius Mesquita de Pinho received the B.Sc. degree in Electronics and Computin
 
 *Electrical Engineering Program - COPPE/UFRJ*
 
-In progress...
+Master Thesis: ongoing research on fusing Computer Vision and Wireless
+Communications for future radio technologies.
 
 ---
 
@@ -61,6 +65,15 @@ Keywords: equalization; underwater acoustic; turbo equalizer.
 ## Professional/Research Background
 ---
 
+### 2020
+
+Research Intern at Nokia Bell Labs France
+
+The project for this six-month internship is about leveraging the
+power of machine learning for computer vision to the optimization of
+radio networks for the sixth generation (6G) of radio technologies.
+
+
 ### 2015 - 2019
 
 Junior researcher at Signals, Multimedia, and Telecommunications Lab (SMT)
@@ -71,7 +84,7 @@ Research Area: Signal processing applied to underwater acoustic transmissions.
 
 ### 2016 - 2018
 
-Teacher Assistant 
+Teacher Assistant
 
 *Electronics and Computing Engineering Departament (DEL)*
 
@@ -80,15 +93,18 @@ Linear Algebra II
 ## Research Projects
 ---
 
-### 2018 - 
+### 2018 - 2020
 
 Researcher in collaboration project:
 
 *Federal University of Rio de Janeiro (SMT) / CENPES (Petrobras)*
 
-Title:  Multiple Analysis and Diagnoses for Maximum Perforation Performance of Oil Wells. 
+Title:  Multiple Analysis and Diagnoses for Maximum Perforation Performance of Oil Wells.
 
-
+Worked as a research engineer exploring solutions using big data and
+machine learning techniques to successfully achieve the goal of
+identifying and classifying mechanical problems in signals acquired
+during oil well drilling processes.
 
 
 ## Language
