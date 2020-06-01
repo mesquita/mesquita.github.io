@@ -56,7 +56,9 @@ working as an intern at Nokia Bell Labs France, in a project integrating radio s
 
 Master Thesis: ongoing research on fusing Computer Vision and Wireless
 Communications for future radio technologies.
-----
+
+---
+
 ### 2014 - 2019
 
 **B.Sc. in Electronic and Computing Engineering**
