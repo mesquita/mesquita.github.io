@@ -27,12 +27,6 @@ mesquita [at] outlook [dot] com
 Av. Horacio Macedo, 2030. Centro de Tecnologia, Block H, room 221 and Block I, room 146. Cidade Universitária, Rio de Janeiro, RJ - Brazil. CEP 21941-598
 
 ---
-#### Postal Address
-P.O Box: 68504
-CEP: 21941-972
-Rio de Janeiro, RJ – Brasil
-
----
 #### Phone/Fax
 Room H-221: +55 (21) 3938-8207
 Room I-146: +55 (21) 3938-8118
