@@ -11,7 +11,7 @@ id: cv
 
 [Complete](cv_pdf/cv.pdf) CV (in english), PDF version.
 
-====
+---
 
 ## Work Contact
 
@@ -25,7 +25,8 @@ Tel/FAX.: +55 (21) 3938-8207.
 
 E-mail: viniciusmesquita [at] poli [dot] ufrj [dot] br
 
-======
+---
+
 ## Personal data
 
 Brazilian, 25 years old.
@@ -34,7 +35,8 @@ Born in April 05, 1995. ES - Brazil.
 
 **Name in bibliographic citations**: PINHO, V. M.
 
-======
+---
+
 ## Short biography
 
 Vinicius Mesquita de Pinho received his B.Sc. degree in Electronics and Computing Engineering from the Federal University
@@ -42,7 +44,8 @@ of Rio de Janeiro (UFRJ), Brazil, in 2019. He is an M.Sc. student in the Electri
 2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT). Currently, Vinicius is
 working as an intern at Nokia Bell Labs France, in a project integrating radio systems and computer vision.
 
-======
+---
+
 ## Education
 
 ### 2019 - 2021
@@ -53,8 +56,7 @@ working as an intern at Nokia Bell Labs France, in a project integrating radio s
 
 Master Thesis: ongoing research on fusing Computer Vision and Wireless
 Communications for future radio technologies.
-
----
+----
 ### 2014 - 2019
 
 **B.Sc. in Electronic and Computing Engineering**
@@ -67,7 +69,8 @@ Advisor: [Marcello L. R. de Campos](http://www.smt.ufrj.br/~campos/) and [Rafael
 
 Keywords: equalization; underwater acoustic; turbo equalizer.
 
-======
+---
+
 ## Professional/Research Background
 
 
@@ -104,7 +107,7 @@ Research Area: Signal processing applied to underwater acoustic transmissions.
 
 Linear Algebra II
 
-======
+---
 ## Language
 * Portuguese: native;
 * English: advanced.
