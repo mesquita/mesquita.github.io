@@ -65,26 +65,23 @@ Keywords: equalization; underwater acoustic; turbo equalizer.
 ## Professional/Research Background
 ---
 
-### 2020
+### Research Intern at Nokia Bell Labs France -- 2020
 
-Research Intern at Nokia Bell Labs France
+
 
 The project for this six-month internship is about leveraging the
 power of machine learning for computer vision to the optimization of
 radio networks for the sixth generation (6G) of radio technologies.
 
 
-### 2015 - 2019
-
-Junior researcher at Signals, Multimedia, and Telecommunications Lab (SMT)
+### Junior researcher at Signals, Multimedia, and Telecommunications Lab (SMT) -- 2015 - 2019
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil.*
 
 Research Area: Signal processing applied to underwater acoustic transmissions.
 
-### 2016 - 2018
+### Teacher Assistant -- 2016 - 2018
 
-Teacher Assistant
 
 *Electronics and Computing Engineering Departament (DEL)*
 
@@ -93,11 +90,9 @@ Linear Algebra II
 ## Research Projects
 ---
 
-### 2018 - 2020
+### Researcher Engineer -- 2018 - 2020
 
-Researcher in collaboration project:
-
-*Federal University of Rio de Janeiro (SMT) / CENPES (Petrobras)*
+Collaboration project between *Federal University of Rio de Janeiro (SMT) / CENPES (Petrobras)*
 
 Title:  Multiple Analysis and Diagnoses for Maximum Perforation Performance of Oil Wells.
 
