@@ -8,7 +8,7 @@ id: cv
 # Vinicius Mesquita's CV
 
 [Complete](http://lattes.cnpq.br/2628435149154613) CV at Lattes platform (only in Portuguese).
-
+[Complete](cv_pdf/cv.pdf) CV, PDF version.
 ## Work Contact
 ---
 Signals, Multimedia, and Telecommunications Lab.
