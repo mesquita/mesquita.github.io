@@ -9,8 +9,12 @@ id: publications
 ---
 1. Papers published in conferences
 
+* PINHO, V. M.; POPESCU, D. . User identification by matching radio 'vision' and computer vision through means of machine learning. In: IFIP Networking, 2020, Paris. Proceedings of the 2020 IFIP Networking Conference, 2020. v. 1. p. 671-672.
+ 
 * [PINHO, V. M.](http://lattes.cnpq.br/2628435149154613); CHAVES, R. S. ; [CAMPOS, M. L. R.](http://lattes.cnpq.br/2402401592333107) . [On Equalization Performance in Underwater Acoustic Communication](https://www.researchgate.net/publication/326378250_On_Equalization_Performance_in_Underwater_Acoustic_Communication?_sg=54PA0udLekDiwv-VEnKBS3aCdjgjCkkhKXoEUotKK3GF-gwQksExU_i8FunUzEFTeqPfl4ehEyeqrw.DvOO58Cklc1ucky2V1sXcMAR3walp8-WoV_dpbF0RGBhBGaX_TeYVX3_gY7K8JtbigjEcyBg3xLHvFMiX2D4qg&_sgd%5Bnc%5D=1&_sgd%5Bncwor%5D=0). In: XXXVI SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS, 2018, Campina Grande - PB. ANAIS DO XXXVI SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES, 2018. v. 1.
+
 * [MARINS, M. A.](http://lattes.cnpq.br/4476862527285936) ; CHAVES, R. S. ; **[PINHO, V. M.](http://lattes.cnpq.br/2628435149154613 )** ; [CUNHA, R. A. F.](http://lattes.cnpq.br/2402401592333107) ; [CAMPOS, M. L. R.](http://lattes.cnpq.br/2402401592333107) . [Tackling Fingerprinting Indoor Localization Using the LASSO and the Conjugate Gradient Algorithms](https://www.researchgate.net/publication/312936131_Tackling_Fingerprinting_Indoor_Localization_Using_the_LASSO_and_the_Conjugate_Gradient_Algorithms?_sg=54PA0udLekDiwv-VEnKBS3aCdjgjCkkhKXoEUotKK3GF-gwQksExU_i8FunUzEFTeqPfl4ehEyeqrw.DvOO58Cklc1ucky2V1sXcMAR3walp8-WoV_dpbF0RGBhBGaX_TeYVX3_gY7K8JtbigjEcyBg3xLHvFMiX2D4qg&_sgd%5Bnc%5D=1&_sgd%5Bncwor%5D=0). In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém - PA. -, 2016.
+
 * [PINHO, V. M.](http://lattes.cnpq.br/2628435149154613); [CAMPOS, M. L. R.](http://lattes.cnpq.br/2402401592333107) ; [CUNHA, R. A. F.](http://lattes.cnpq.br/2402401592333107) . [O Método do Gradiente Conjugado Aplicado à Localização em Ambientes Fechados](https://www.researchgate.net/publication/325766189_O_Metodo_do_Gradiente_Conjugado_Aplicado_a_Localizacao_em_Ambientes_Fechados). In: XXXIII Simpósio Brasileiro de Telecomunicações, 2015, Juiz de Fora - MG. XXXIII Simpósio Brasileiro de Telecomunicações, 2015. v. 1. p. 597-598.
 
 2. Undergraduate Thesis:
