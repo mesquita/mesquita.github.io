@@ -15,7 +15,7 @@ $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
-I guess it did work! 
+I guess it did work!
 
 ## Testing an image
 
