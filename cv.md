@@ -29,11 +29,9 @@ E-mail: viniciusmesquita [at] poli [dot] ufrj [dot] br
 
 ## Personal data
 
-Brazilian, 25 years old.
+Brazilian. Born in April 05, 1995. ES, Brazil.
 
-Born in April 05, 1995. ES - Brazil.
-
-**Name in bibliographic citations**: PINHO, V. M.
+**Name in bibliographic citations**: PINHO, V. M.; DE PINHO, VINICIUS M.
 
 ---
 
@@ -41,27 +39,25 @@ Born in April 05, 1995. ES - Brazil.
 
 Vinicius Mesquita de Pinho received his B.Sc. degree in Electronics and Computing Engineering from the Federal University
 of Rio de Janeiro (UFRJ), Brazil, in 2019. He is an M.Sc. student in the Electrical Engineering Program - COPPE/UFRJ. Since
-2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT). Currently, Vinicius is
-working as an intern at Nokia Bell Labs France, in a project integrating radio systems and computer vision.
+2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT).
 
 ---
 
 ## Education
 
-### 2019 - 2021
 
-**M.Sc. in Electrical Engineering**
+
+* ### **M.Sc. in Electrical Engineering** (2019 - 2021)
 
 *Electrical Engineering Program - COPPE/UFRJ*
 
 Master Thesis: ongoing research on fusing Computer Vision and Wireless
 Communications for future radio technologies.
 
----
 
-### 2014 - 2019
 
-**B.Sc. in Electronic and Computing Engineering**
+
+* ### **B.Sc. in Electronic and Computing Engineering** (2014 - 2019)
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil*
 
@@ -76,14 +72,14 @@ Keywords: equalization; underwater acoustic; turbo equalizer.
 ## Professional/Research Background
 
 
-### Research Intern at Nokia Bell Labs France -- 2020
+* ### Research Intern at Nokia Bell Labs France (2020 - 2020)
 
 The project for this six-month internship is about leveraging the
 power of machine learning for computer vision to the optimization of
 radio networks for the sixth generation (6G) of radio technologies.
 
-----
-### Researcher Engineer -- 2018 - 2020
+
+* ### Researcher Engineer (2018 - 2020)
 
 Collaboration project between *Federal University of Rio de Janeiro (SMT) / CENPES (Petrobras)*
 
@@ -94,15 +90,15 @@ machine learning techniques to successfully achieve the goal of
 identifying and classifying mechanical problems in signals acquired
 during oil well drilling processes.
 
-----
-### Junior researcher at Signals, Multimedia, and Telecommunications Lab (SMT) -- 2015 - 2019
+
+* ### Junior researcher at Signals, Multimedia, and Telecommunications Lab (SMT) (2015 - 2019)
 
 *Federal University of Rio de Janeiro, UFRJ, Rio de Janeiro, Brazil.*
 
 Research Area: Signal processing applied to underwater acoustic transmissions.
 
-----
-### Teacher Assistant -- 2016 - 2018
+
+* ### Teacher Assistant (2016 - 2018)
 
 
 *Electronics and Computing Engineering Departament (DEL)*

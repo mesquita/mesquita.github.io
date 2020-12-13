@@ -15,11 +15,11 @@ For more academic/professional information, please access [my curriculum](/cv).
 ### Contact
 ---
 #### E-mails
-viniciusmesquita [at] ufrj [dot] com [dot] br
+viniciusmesquita [at] poli [dot] ufrj [dot] [dot] br
 
-vinicius [at] outlook [dot] com
+vinicius.mesquita [at] coppe [dot] ufrj [dot] br
 
-mesquita [at] outlook [dot] com
+vinicius.pinho [at] smt [dot] ufrj [dot] br
 
 ---
 #### Location
