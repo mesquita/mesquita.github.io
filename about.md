@@ -14,7 +14,7 @@ For more academic/professional information, please access [my curriculum](/cv)
 ## Contact
 ---
 ### E-mails
-viniciusmesquita [at] poli [dot] ufrj [dot] [dot] br
+viniciusmesquita [at] poli [dot] ufrj [dot] br
 
 vinicius.mesquita [at] coppe [dot] ufrj [dot] br
 
