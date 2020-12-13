@@ -9,7 +9,7 @@ id: cv
 
 [Complete](http://lattes.cnpq.br/2628435149154613) CV at Lattes platform (only in Portuguese).
 
-[Complete](cv_pdf/cv.pdf) CV (in english), PDF version.
+<!-- [Complete](cv_pdf/cv.pdf) CV (in english), PDF version. -->
 
 ---
 
