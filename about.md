@@ -7,14 +7,13 @@ id: about
 
 Hi, my name is **Vinicius Mesquita** and I'm currently an M.Sc. student at the Federal University of Rio de Janeiro (UFRJ) in the [Electrical Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE) - Brazil.
 
-### More information
 
-For more academic/professional information, please access [my curriculum](/cv).
----
+For more academic/professional information, please access [my curriculum](/cv)
 
-### Contact
+
+## Contact
 ---
-#### E-mails
+### E-mails
 viniciusmesquita [at] poli [dot] ufrj [dot] [dot] br
 
 vinicius.mesquita [at] coppe [dot] ufrj [dot] br
@@ -22,12 +21,12 @@ vinicius.mesquita [at] coppe [dot] ufrj [dot] br
 vinicius.pinho [at] smt [dot] ufrj [dot] br
 
 ---
-#### Location
+## Location
 
 Av. Horacio Macedo, 2030. Centro de Tecnologia, Block H, room 221 and Block I, room 146. Cidade Universitária, Rio de Janeiro, RJ - Brazil. CEP 21941-598
 
 ---
-#### Phone/Fax
+## Phone
 Room H-221: +55 (21) 3938-8207
 
 Room I-146: +55 (21) 3938-8118
