@@ -23,10 +23,10 @@ Copyright Ownership: Personal use of these materials are allowed. Permission to 
 4. CUNHA, R. A. F.;  PINHO, V. M.; CAMPOS, M. L. R.."[O Método do Gradiente Conjugado Aplicado à Localização em Ambientes Fechados](https://www.researchgate.net/publication/325766189_O_Metodo_do_Gradiente_Conjugado_Aplicado_a_Localizacao_em_Ambientes_Fechados)". In: XXXIII Simpósio Brasileiro de Telecomunicações, 2015, Juiz de Fora - MG. XXXIII Simpósio Brasileiro de Telecomunicações, 2015. v. 1. p. 597-598. DOI: 10.14209/sbrt.2015.85 [Download](papers/c01.pdf)
 
 ---
-## Thesis:
+## C. Thesis:
 
-### A. Master Thesis
+### I. Master Thesis
 1. Coming soon.
 
-### B. Undergraduate Thesis
+### II. Undergraduate Thesis
 1. PINHO, V. M. "[On Equalization Performance in Underwater Acoustic Communication System](https://www.researchgate.net/publication/331529947_On_Equalization_Performance_in_Underwater_Acoustic_Communication_System)". Undergraduate Thesis, Federal University of Rio de Janeiro (UFRJ), Electronics and Computing Engineering Departament (DEL). February, 2019. [Download](papers/tcc.pdf)
