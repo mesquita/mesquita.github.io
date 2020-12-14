@@ -7,7 +7,7 @@ id: cv
 
 # Vinicius Mesquita's CV
 
-[Complete](http://lattes.cnpq.br/2628435149154613) CV at Lattes platform (only in Portuguese).
+[Complete](http://lattes.cnpq.br/2628435149154613) CV at Lattes platform (only in portuguese).
 
 [Short](cv_pdf/short_cv.pdf) CV (in english), PDF version.
 
@@ -53,8 +53,11 @@ of Rio de Janeiro (UFRJ), Brazil, in 2019. He is an M.Sc. student in the Electri
 
 *Electrical Engineering Program - COPPE/UFRJ*
 
-Master Thesis: ongoing research on fusing Computer Vision and Wireless
-Communications for future radio technologies.
+Master Thesis: "Vision-Aided Radio: User Identity Match in Radio and Video Domains Using Machine Learning".
+
+Advisor: Advisor: [Marcello L. R. de Campos](http://www.smt.ufrj.br/~campos/)
+
+Keywords: machine learning; computer vision; B5G; neural networks.
 
 
 
@@ -105,11 +108,11 @@ Research Area: Signal processing applied to underwater acoustic transmissions.
 
 *Electronics and Computing Engineering Departament (DEL)*
 
-Linear Algebra II
+Linear Algebra II.
 
 ---
 ## Language
-* Portuguese: native;
+* Portuguese: mother tongue.
 * English: advanced.
 
 

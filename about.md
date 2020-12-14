@@ -8,7 +8,7 @@ id: about
 Hi, my name is **Vinicius Mesquita** and I'm currently an M.Sc. student at the Federal University of Rio de Janeiro (UFRJ) in the [Electrical Engineering Program](http://www.pee.ufrj.br) of [Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia](http://coppe.ufrj.br) (COPPE) - Brazil.
 
 
-For more academic/professional information, please access [my curriculum](/cv)
+For more academic/professional information, please access [my curriculum](/cv).
 
 
 ## Contact
