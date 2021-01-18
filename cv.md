@@ -116,3 +116,19 @@ Linear Algebra II.
 * English: advanced.
 
 
+---
+
+## Certificates
+Advanced MATLAB. Issuing authority: Universidade Federal do Rio de Janeiro [Download](certificates/SE2015-MinicursoMatlab.pdf)
+
+Broadcast Traning Program. Issuing authority: OBS - OLYMPIC BROADCASTING SERVICES [Download](certificates/certificado_OBS_Olimpiadas_2016_Vinicius Mesquita de Pinho.pdf)
+
+Introduction to Data Science in Python. Issuing authority: Coursera Course Certificates [Download](certificates/Coursera PAMJLZP8RRJE.pdf)
+
+Applied Machine Learning in Python. Issuing authority: Coursera Course Certificates [Download](certificates/Coursera W3L8BD8M5GPP.pdf)
+
+Appplied Text Mining in Python. Issuing authority: Coursera Course Certificates [Download](certificates/Coursera BARYGTP738VE.pdf)
+
+Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Issuing authority: Coursera Course Certificates [Download](certificates/Coursera BTR6BR2WEYUK.pdf)
+
+Convolutional Neural Networks in TensorFlow. Issuing authority: Coursera Course Certificates [Download](certificates/Coursera DLGXNZLSWRYH.pdf)
