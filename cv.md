@@ -112,8 +112,9 @@ Linear Algebra II.
 
 ---
 ## Language
-* Portuguese: mother tongue.
-* English: advanced.
+Portuguese: mother tongue.
+
+English: advanced.
 
 
 ---
