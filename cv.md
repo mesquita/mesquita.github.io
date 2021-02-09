@@ -9,23 +9,9 @@ id: cv
 
 [Complete](http://lattes.cnpq.br/2628435149154613) CV at Lattes platform (only in portuguese).
 
-[Short](cv_pdf/short_cv.pdf) CV (in english), PDF version.
+[Short](cv_pdf/short_cv.pdf) CV (in english), PDF version. Going to be updated soon.
 
-[Complete](cv_pdf/full_cv.pdf) CV (in english), PDF version.
-
----
-
-## Work Contact
-
-Signals, Multimedia, and Telecommunications Lab.
-
-Av. Horácio Macedo, 2030, room H-221 – Cidade Universitária.
-
-21941-598 Rio de Janeiro, RJ - Brazil.
-
-Tel/FAX.: +55 (21) 3938-8207.
-
-E-mail: viniciusmesquita [at] poli [dot] ufrj [dot] br
+[Complete](cv_pdf/full_cv.pdf) CV (in english), PDF version. Going to be updated soon.
 
 ---
 
@@ -39,9 +25,7 @@ Brazilian. Born in April 05, 1995. ES, Brazil.
 
 ## Short biography
 
-Vinicius Mesquita de Pinho received his B.Sc. degree in Electronics and Computing Engineering from the Federal University
-of Rio de Janeiro (UFRJ), Brazil, in 2019. He is an M.Sc. student in the Electrical Engineering Program - COPPE/UFRJ. Since
-2015, he has been working at the Laboratory of Signals, Multimedia, and Telecommunications (SMT).
+Vinicius currently is an Early Stage Researcher at Nokia Bell Labs working in the PAINLESS project, within the framework of the H2020 Marie Skłodowska-Curie Innovative Training Networks. Vinicius Mesquita de Pinho received his M.Sc. degree in Electrical Engineering from Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa de Engenharia (COPPE), in 2021 and his B.Sc. degree in Electronics and Computing Engineering from Federal University of Rio de Janeiro (UFRJ), Brazil, in 2019. He has an interest in signal processing applied for telecommunications, machine learning, and computer vision. 
 
 ---
 
@@ -53,7 +37,7 @@ of Rio de Janeiro (UFRJ), Brazil, in 2019. He is an M.Sc. student in the Electri
 
 *Electrical Engineering Program - COPPE/UFRJ*
 
-Master Thesis: "Vision-Aided Radio: User Identity Match in Radio and Video Domains Using Machine Learning".
+Master Thesis: "Towards Context-Aware Communications: User Identity Match in Radio and Video Domains Using Machine Learning".
 
 Advisor: Advisor: [Marcello L. R. de Campos](http://www.smt.ufrj.br/~campos/)
 
@@ -76,6 +60,11 @@ Keywords: equalization; underwater acoustic; turbo equalizer.
 
 ## Professional/Research Background
 
+* ### Early Stage Researcher at Nokia Bell Labs France (2021 - 2022)
+
+
+Marie Skłodowska-Curie Early Stage Researcher in PAINLESS ITN 
+at Nokia Bell Labs France.
 
 * ### Research Intern at Nokia Bell Labs France (2020 - 2020)
 
