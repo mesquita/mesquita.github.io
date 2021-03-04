@@ -26,7 +26,7 @@ Copyright Ownership: Personal use of these materials are allowed. Permission to 
 ## C. Thesis:
 
 ### I. Master Thesis
-1. Coming soon.
-
-### II. Undergraduate Thesis
 1. PINHO, V. M. "[On Equalization Performance in Underwater Acoustic Communication System](https://www.researchgate.net/publication/331529947_On_Equalization_Performance_in_Underwater_Acoustic_Communication_System)". Undergraduate Thesis, Federal University of Rio de Janeiro (UFRJ), Electronics and Computing Engineering Departament (DEL). February, 2019. [Download](papers/tcc.pdf)
+
+### II. Master Thesis
+1. PINHO, V. M. "Towards Context-Aware Communications: User Identity Match in Radio and Video Domains Using Machine Learning". Master Thesis, Federal University of Rio de Janeiro (UFRJ), Electronics and Computing Engineering Departament (DEL). February, 2021. [Download](papers/dis.pdf)
